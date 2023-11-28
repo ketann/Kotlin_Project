@@ -1,0 +1,23 @@
+
+n
+>app/src/main/java/com/gurukrupa/kotlin_project/MainActivity.kt,5\2\52ad6296ae8bb20cf04b79008ed1a4df7c5b630e
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+w
+G.idea/sonarlint/issuestore/8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e,3\2\32813322c99a6c8a141ab2dc12bc10af3425f1b4
+Å
+Q.idea/sonarlint/securityhotspotstore/8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e,1\f\1fe398aa86b382486ed27d0a69bf92f68bd5edaa
+w
+G.idea/sonarlint/issuestore/d/2/d2a4383452aad84a18429a5844d31330a012a9e6,4\1\41d94d542eb07930019955e360e3288fdff2668b
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+w
+G.idea/sonarlint/issuestore/5/2/52ad6296ae8bb20cf04b79008ed1a4df7c5b630e,a\b\ab188e540db163ce2dbac1b81e8028b52e656bf9
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/d/2/d2a4383452aad84a18429a5844d31330a012a9e6,7\f\7fcac164c7a46b8fc6411ea93226c884af6044db
+Å
+Q.idea/sonarlint/securityhotspotstore/5/2/52ad6296ae8bb20cf04b79008ed1a4df7c5b630e,2\3\23c4053db32731c92bc135f313e72ee801f49005
